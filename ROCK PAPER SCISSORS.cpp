@@ -81,7 +81,7 @@ int main()
 			printf("\t\t\t\t--------------------------------\n\n");
 		}     
 	}
-	printf("\n\n\t\tDo you want to play again (Y/N):");
+	printf("\n\n\t\t\t      Do you want to play again (Y/N):");
 	char c;
 	scanf(" %c",&c);
 	if((c=='Y') || (c=='y')){
