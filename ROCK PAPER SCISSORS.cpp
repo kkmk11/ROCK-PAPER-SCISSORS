@@ -33,7 +33,7 @@ int main()
 		char you,com;
 		int a=1,b=1,i,p=5;
 		do{
-			printf("\nChoose among R/P/S :  ");
+			printf("\nChoose among R/P/S :      ");
 			for(i=p;i>=1;i--){
 				printf(" %c ",3);
 			}
