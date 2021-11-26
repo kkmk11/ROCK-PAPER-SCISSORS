@@ -1,3 +1,4 @@
+//NOTE : THIS IS A C PROGRAM.NOT A CPP PROGRAM.
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
